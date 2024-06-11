@@ -11,6 +11,7 @@ A Database Management System (DBMS) is software designed to facilitate the creat
 ![image](https://github.com/anuragGUPTA2235/DBMS/assets/161227082/856fd4b4-8623-41e8-80e4-af95270cb548)
 ![image](https://github.com/anuragGUPTA2235/DBMS/assets/161227082/382d36b6-57dc-451e-a212-1f3fe3fb61bb)
 ![image](https://github.com/anuragGUPTA2235/DBMS/assets/161227082/8454cc44-96a6-4a50-88eb-945eff22dd5b)
+## WHY USE DATABASE, WE HAVE FILE SYSTEM? ADVANTAGES OF DBMS?
 
 
 
