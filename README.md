@@ -66,7 +66,7 @@ The physical schema defines how data is stored physically on a storage system su
 The logical schema defines the logical structure of the entire database, including tables, relationships, constraints, and permissions. It provides a conceptual view of the database and serves as a blueprint for creating the database. The logical schema is independent of the specific physical implementation details.
 ### External View schema
 An external schema defines the views or subsets of the database that are accessible to specific users or applications. It hides certain details of the database schema and provides a tailored view of the data for different user groups or applications. External schemas help in achieving data independence and security.<br/>
-Here also the schema are independent on each other, one change at one level dont affect other levels.
+Here also the schema are independent on each other, one change at one level dont affect other levels.GENERALLY, SCHEMA REFERS TO LOGICAL SCHEMA
 ## MY OPINION
 THERE ARE THREE LEVELS IN A DATABASE MANAGEMENT SYSTEM SOFTWARE, EACH LEVEL ARE INDEPENDENT OF EACH OTHER, CHANGES IN ONE DONT AFFECT OTHERS, SUPPOSE YOU WANT TO SPLIT THE PARTITION OF DISK AT PHYSICAL LEVEL OR ADD NEW PARTITION, BUT IT SHOULD NOT AFFECT THE LOGICAL LEVEL IE HOW TABLES ARE RELATED TO EACH OTHER AND ALSO THE VIEWS, THE END USER MUST NOT GET DISTURBED.<BR/>
 ALSO IF U CHANGE THE LOGICAL SCHEMA, UNLESS U WANT IT SHOULD NOT AFFECT THE DEPARTMENT VIEWS, BY DOING THIS WE ACTUALLY DONT DISTURB THE WORKING OF END USERS WHILE WE DO IMPORTANT CHANGES TO OUR DATABASE.
