@@ -111,6 +111,9 @@ Transaction Control Language (TCL):
 
 TCL is used to manage transactions within the database. Commands like COMMIT and ROLLBACK are used to explicitly control the transactions and ensure data integrity.
 
+## DATABASE AND APPLICATION COMMUNICATION
+JDBC (Java Database Connectivity) and ODBC (Open Database Connectivity)(C C++)are both APIs (Application Programming Interfaces) designed to facilitate communication between applications and databases, but they serve different ecosystems and have distinct characteristics
+
 
 
 
