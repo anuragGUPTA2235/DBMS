@@ -56,6 +56,18 @@ In summary, these levels of abstraction in DBMS help in organizing and managing 
 Instance is the collection of information stored in a database at any interval of time. It can differ at 1 pm and 2 pm on a production database.
 ## SQL SCHEMA
 In the context of databases, a "database schema" (often shortened to "schema") refers to the structure or blueprint that defines the logical view of the entire database. It represents the organization of data in the database system, including the tables, fields, relationships, constraints, indexes, and other attributes that define how the data is stored and accessed.Sql schema dont frequently change while data inside it changes continuously.
+## TYPES OF SCHEMA
+### Physical Schema:
+
+The physical schema defines how data is stored physically on a storage system such as disks. It includes details such as file organization, indexing methods, partitioning, and data storage formats. The physical schema is concerned with optimizing storage and retrieval efficiency.
+
+### Logical Schema:
+
+The logical schema defines the logical structure of the entire database, including tables, relationships, constraints, and permissions. It provides a conceptual view of the database and serves as a blueprint for creating the database. The logical schema is independent of the specific physical implementation details.
+### External View schema
+An external schema defines the views or subsets of the database that are accessible to specific users or applications. It hides certain details of the database schema and provides a tailored view of the data for different user groups or applications. External schemas help in achieving data independence and security.
+
+
 
 
 
