@@ -65,7 +65,9 @@ The physical schema defines how data is stored physically on a storage system su
 
 The logical schema defines the logical structure of the entire database, including tables, relationships, constraints, and permissions. It provides a conceptual view of the database and serves as a blueprint for creating the database. The logical schema is independent of the specific physical implementation details.
 ### External View schema
-An external schema defines the views or subsets of the database that are accessible to specific users or applications. It hides certain details of the database schema and provides a tailored view of the data for different user groups or applications. External schemas help in achieving data independence and security.
+An external schema defines the views or subsets of the database that are accessible to specific users or applications. It hides certain details of the database schema and provides a tailored view of the data for different user groups or applications. External schemas help in achieving data independence and security.<br/>
+Here also the schema are independent on each other, one change at one level dont affect other levels.
+
 
 
 
