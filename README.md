@@ -88,7 +88,7 @@ Extends object-oriented programming concepts to databases, treating data as obje
 #### Hierarchical Model:
 Organizes data in a tree-like structure, suitable for representing parent-child relationships.<br/>
 
-# Network Model:
+#### Network Model:
 Similar to hierarchical but allows more complex relationships through pointers.<br/>
 
 #### Document Model:
