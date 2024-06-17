@@ -75,6 +75,21 @@ there are three levels in a database management system software, each level are 
 ### Data models
 A data model is a way of structuring and organizing data in a database. It provides a blueprint for how data will be stored, accessed, and managed. Think of it as a framework or set of rules that define how information is represented and related to each other within a database system.
 
+## Types -- 
+Relational Model: The most widely used model, organizing data into tables with rows and columns. Relationships between tables are established using keys.<br/>
+
+Entity-Relationship Model (ER Model): Used for designing databases by representing entities (objects) and relationships between them graphically.<br/>
+
+Object-Oriented Model: Extends object-oriented programming concepts to databases, treating data as objects with attributes and methods.<br/>
+
+Hierarchical Model: Organizes data in a tree-like structure, suitable for representing parent-child relationships.<br/>
+
+Network Model: Similar to hierarchical but allows more complex relationships through pointers.<br/>
+
+Document Model: Stores semi-structured data as documents (e.g., JSON, XML), common in NoSQL databases.<br/>
+
+Key-Value Model: Simplest form, storing data as key-value pairs, efficient for quick access.<br/>
+
 
 
 
