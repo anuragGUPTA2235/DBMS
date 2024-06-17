@@ -72,6 +72,8 @@ Here also the schema are independent on each other, one change at one level dont
 The conceptual schema represents the overall logical structure of the database from a business perspective. It defines entities, their attributes, and the relationships among them. The conceptual schema is often used during the initial design phase and provides a high-level view of the data requirements and relationships.
 ## MY OPINION
 there are three levels in a database management system software, each level are independent of each other, changes in one dont affect others. suppose you want to split the partition of disk at physical level or add new partition, but it should not affect the logical level ie how tables are related to each other and also the views. the end user must not get disturbed. also if u change the logical schema, unless u want it should not affect the department views. by doing this we actually dont disturb the working of end users while we do important changes to our database.
+### Data models
+A data model is a way of structuring and organizing data in a database. It provides a blueprint for how data will be stored, accessed, and managed. Think of it as a framework or set of rules that define how information is represented and related to each other within a database system.
 
 
 
