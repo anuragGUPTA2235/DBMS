@@ -22,6 +22,7 @@ Backup and Recovery: DBMSs provide mechanisms for backing up database data and r
 Data Modeling and Schema Management: DBMSs allow users to define and manage the structure of the database using data modeling techniques and schema management tools. Filesystems lack built-in support for structured data modeling and schema management.
 ## ABSTRACTION IN DATABASE MANAGEMENT SYSTEM
 Abstraction in computer science refers to the concept of hiding complex details and showing only the essential features of an object or system. It's like using a remote control without knowing how it works inside, just knowing how to use it to change channels.<br/>
+In the context of Database Management Systems (DBMS), abstraction refers to the process of hiding the complexities of the database system and presenting users with a simplified view or interface to interact with the database. There are typically three levels of abstraction in DBMS:
 
 
 
