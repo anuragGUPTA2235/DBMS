@@ -114,6 +114,10 @@ TCL is used to manage transactions within the database. Commands like COMMIT and
 ## DATABASE AND APPLICATION COMMUNICATION
 JDBC (Java Database Connectivity) and ODBC (Open Database Connectivity)(C C++)are both APIs (Application Programming Interfaces) designed to facilitate communication between applications and databases, but they serve different ecosystems and have distinct characteristics
 
+## DBA
+DBA stands for Database Administrator. A Database Administrator is a specialized IT professional responsible for the installation, configuration, maintenance and backups, security, and overall management of databases within an organization. Their role involves ensuring the integrity, performance, and availability of databases to meet the needs of users and applications. 
+
+
 
 
 
