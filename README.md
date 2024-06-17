@@ -67,9 +67,11 @@ The logical schema defines the logical structure of the entire database, includi
 ### External View schema
 An external schema defines the views or subsets of the database that are accessible to specific users or applications. It hides certain details of the database schema and provides a tailored view of the data for different user groups or applications. External schemas help in achieving data independence and security.<br/>
 Here also the schema are independent on each other, one change at one level dont affect other levels.GENERALLY, SCHEMA REFERS TO LOGICAL SCHEMA
+
+### Conceptual Schema:
+The conceptual schema represents the overall logical structure of the database from a business perspective. It defines entities, their attributes, and the relationships among them. The conceptual schema is often used during the initial design phase and provides a high-level view of the data requirements and relationships.
 ## MY OPINION
-THERE ARE THREE LEVELS IN A DATABASE MANAGEMENT SYSTEM SOFTWARE, EACH LEVEL ARE INDEPENDENT OF EACH OTHER, CHANGES IN ONE DONT AFFECT OTHERS, SUPPOSE YOU WANT TO SPLIT THE PARTITION OF DISK AT PHYSICAL LEVEL OR ADD NEW PARTITION, BUT IT SHOULD NOT AFFECT THE LOGICAL LEVEL IE HOW TABLES ARE RELATED TO EACH OTHER AND ALSO THE VIEWS, THE END USER MUST NOT GET DISTURBED.<BR/>
-ALSO IF U CHANGE THE LOGICAL SCHEMA, UNLESS U WANT IT SHOULD NOT AFFECT THE DEPARTMENT VIEWS, BY DOING THIS WE ACTUALLY DONT DISTURB THE WORKING OF END USERS WHILE WE DO IMPORTANT CHANGES TO OUR DATABASE.
+there are three levels in a database management system software, each level are independent of each other, changes in one dont affect others. suppose you want to split the partition of disk at physical level or add new partition, but it should not affect the logical level ie how tables are related to each other and also the views. the end user must not get disturbed. also if u change the logical schema, unless u want it should not affect the department views. by doing this we actually dont disturb the working of end users while we do important changes to our database.
 
 
 
