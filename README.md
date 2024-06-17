@@ -97,6 +97,20 @@ Stores semi-structured data as documents (e.g., JSON, XML), common in NoSQL data
 #### Key-Value Model:
 Simplest form, storing data as key-value pairs, efficient for quick access.<br/>
 
+## DATABASE LANGUAGES
+Data Definition Languages (DDL):
+
+DDL is used to define the structure and schema of a database. Commands like CREATE, ALTER, and DROP are part of DDL and are used to create tables, modify table structures, and drop objects from the database.
+Data Manipulation Languages (DML):
+
+DML is used to manipulate data within the database. SQL's INSERT, UPDATE, DELETE statements are examples of DML commands that allow users to add, modify, and delete data from database tables.
+Data Control Languages (DCL):
+
+DCL is used to control access to data within the database. Commands like GRANT and REVOKE are part of DCL and are used to grant permissions to users and roles, and revoke those permissions when necessary.
+Transaction Control Language (TCL):
+
+TCL is used to manage transactions within the database. Commands like COMMIT and ROLLBACK are used to explicitly control the transactions and ensure data integrity.
+
 
 
 
