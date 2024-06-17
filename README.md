@@ -21,6 +21,8 @@ Indexing: DBMSs support indexing to enhance query performance by creating data s
 Backup and Recovery: DBMSs provide mechanisms for backing up database data and restoring it in the event of data loss, corruption, or system failure. Filesystems may offer basic backup utilities, but they do not provide specialized backup and recovery features tailored for databases.
 Data Modeling and Schema Management: DBMSs allow users to define and manage the structure of the database using data modeling techniques and schema management tools. Filesystems lack built-in support for structured data modeling and schema management.
 ## ABSTRACTION IN DATABASE MANAGEMENT SYSTEM
+Abstraction in computer science refers to the concept of hiding complex details and showing only the essential features of an object or system. It's like using a remote control without knowing how it works inside, just knowing how to use it to change channels.<br/>
+
 
 
 
