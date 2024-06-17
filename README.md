@@ -49,7 +49,7 @@ Sure, let's break down the three levels of abstraction in Database Management Sy
   
 - **Simplicity and Security**: Abstraction helps in simplifying the complexity of managing data systems and enforcing security by controlling access to different levels of data.
 
-In summary, these levels of abstraction in DBMS help in organizing and managing data efficiently while providing different perspectives and levels of detail to various users and applications.
+In summary, these levels of abstraction in DBMS help in organizing and managing data efficiently while providing different perspectives and levels of detail to various users and applications.<br/>
 ![PPREPCS10](https://github.com/anuragGUPTA2235/DBMS/assets/161227082/daabc482-94b8-4882-b5aa-e81e9d77331d)
 
 ## WHAT IS INSTANCE
