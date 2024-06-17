@@ -53,6 +53,9 @@ In summary, these levels of abstraction in DBMS help in organizing and managing 
 ![PPREPCS10](https://github.com/anuragGUPTA2235/DBMS/assets/161227082/daabc482-94b8-4882-b5aa-e81e9d77331d)
 
 ## WHAT IS INSTANCE
+Instance is the collection of information stored in a database at any interval of time. It can differ at 1 pm and 2 pm on a production database.
+## SQL SCHEMA
+In the context of databases, a "database schema" (often shortened to "schema") refers to the structure or blueprint that defines the logical view of the entire database. It represents the organization of data in the database system, including the tables, fields, relationships, constraints, indexes, and other attributes that define how the data is stored and accessed.Sql schema dont frequently change while data inside it changes continuously.
 
 
 
